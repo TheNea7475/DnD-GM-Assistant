@@ -1,0 +1,1 @@
+A small script to help D&D GMs keep track of party and entities
