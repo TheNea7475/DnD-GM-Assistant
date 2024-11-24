@@ -1,0 +1,17 @@
+HP degli NPC
+Funzione di danno o cura a turno
+Abilità: numero utilizzi e descrizione
+Equipaggiamento: spawnabile dalla lista oppure inseribile sul momento
+
+Sistema di drop table
+
+--Lista di NPC
+
+1.Lupo,10,15,Ciao,[Denetria,Moria]
+2.Lupo,10,15,Ciao,[Denetria,Moria,Maidoado]
+3.Lupo,10,15,Ciao,Denetria
+4.Lupo,10,15,Ciao,Denetria
+5.Lupo,10,15,Ciao,Moria
+
+
+

@@ -8,8 +8,11 @@
                 "-fdiagnostics-color=always",
                 "-g",
                 "${file}",
+                "libs/sqlite3.c",
+                "-Ilibs",
                 "-o",
-                "${fileDirname}\\${fileBasenameNoExtension}.exe"
+                "${fileDirname}\\${fileBasenameNoExtension}.exe",
+                "-lpthread",
             ],
             "options": {
                 "cwd": "${fileDirname}"
